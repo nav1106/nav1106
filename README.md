@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Navnita
 - 🌱 I’m currently learning C, C++, Java and Python
-- ⚡ Fun fact: ...still figuring it out tbh \_(-_-) _/
+- ⚡ Fun fact: ...still figuring it out tbh  \_(-_-) _/
